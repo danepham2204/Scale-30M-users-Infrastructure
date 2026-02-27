@@ -4,6 +4,8 @@
 
 Disclaimer: This document represents a synthesis of research derived from open-source code analysis, technical literature, and various scholarly resources regarding distributed coordination systems. The information is intended strictly for academic and knowledge-sharing purposes and is not for commercial use. While every effort has been made to ensure accuracy, this research is a "work-in-progress" and may contain evolving interpretations of complex system behaviors.
 
+There are many mistakes in the design and need to findout through experiement and analysis from the errors.
+
 ## 1. Capacity
 Results:
   + Throughput: Achieved a consistent throughput of more than 500 transactions per second (TPS) - per pod.
